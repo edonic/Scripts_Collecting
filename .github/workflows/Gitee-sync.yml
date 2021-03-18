@@ -1,0 +1,12 @@
+name: Gitee-sync
+on: page_build
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wearerequired/git-mirror-action@master
+        env:
+          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+        with:
+          source-repo: "git@github.com:edonic/Scripts_Collecting.git"
+          destination-repo: "git@gitee.com:edonic/Scripts_Collecting.git"
