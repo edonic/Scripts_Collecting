@@ -1,5 +1,7 @@
 name: Gitee-sync
-on: page_build
+on: 
+  schedule:
+    - cron: '1 0,15 * * *'
 jobs:
   sync:
     runs-on: ubuntu-latest
