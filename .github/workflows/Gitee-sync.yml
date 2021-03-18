@@ -1,14 +1,32 @@
-name: Gitee-sync
-on: 
+# File: .github/workflows/repo-sync.yml
+name: sync-LXK9301-scripts
+on:
   schedule:
     - cron: '1 0,15 * * *'
+  workflow_dispatch:
+  watch:
+    types: started
+  push:
+    branches: [ master ]
+  repository_dispatch:
+    types: sync-LXK9301-scripts
 jobs:
-  sync:
+  repo-sync:
+    env:
+      dst_key: ${{ secrets.GITEE_PRIVATE_KEY }} # 我自己同步到gitee使用，其他人可忽略
     runs-on: ubuntu-latest
+    if: github.event.repository.owner.id == github.event.sender.id
     steps:
-      - uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_PRIVATE_KEY }}
+      - uses: actions/checkout@v2
         with:
-          source-repo: "git@github.com:edonic/Scripts_Collecting.git"
-          destination-repo: "git@gitee.com:edonic/Scripts_Collecting.git"
+          persist-credentials: false
+          
+      - name: sync github -> gitee
+        uses: Yikun/hub-mirror-action@master
+        if: env.dst_key
+        with:
+          src: github/edonic
+          dst: gitee/edonic
+          static_list: "Scripts_Collecting"
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
