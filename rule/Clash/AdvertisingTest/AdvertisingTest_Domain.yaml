@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.673599
+# UPDATED: 2021-03-27 03:10:24.234106
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 69367
-# DOMAIN: 14391
+# DOMAIN-SUFFIX: 69371
+# DOMAIN: 14393
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 84063
+# TOTAL: 84069
 payload:
   - '0.up.qingdaonews.com'
   - '0001.2waky.com'
@@ -524,7 +524,6 @@ payload:
   - 'acurelief.com'
   - 'acwyoynw.com'
   - 'ad-a.juicyad.com'
-  - 'ad-display.wikawika.xyz'
   - 'ad.21cn.com'
   - 'ad.9tv.co.il'
   - 'ad.about.com'
@@ -1458,6 +1457,7 @@ payload:
   - 'anx.mywebsearch.com'
   - 'anx.tb.ask.com'
   - 'anycracks.com'
+  - 'anyhacks.com'
   - 'anyporn.com'
   - 'anzanish.tripod.com'
   - 'aod-image-material.bj.bcebos.com'
@@ -5380,6 +5380,7 @@ payload:
   - 'freeonescams.com'
   - 'freepaidsoftware.com'
   - 'freeplaycard.com'
+  - 'freeplaygiftcard.com'
   - 'freeplaygiftcards.com'
   - 'freepmoney.com'
   - 'freepremiumstuff.com'
@@ -8203,6 +8204,7 @@ payload:
   - 'markkavanagh.com'
   - 'markupbd.com'
   - 'marlinaquarindo.com'
+  - 'marocuisine.net'
   - 'maroonspider.com'
   - 'marryinamansion.com'
   - 'marsflag.com'
@@ -18018,6 +18020,7 @@ payload:
   - '.ad-cache.dopool.com'
   - '.ad-cdn.qingting.fm'
   - '.ad-center.com'
+  - '.ad-channel.wikawika.xyz'
   - '.ad-ck.ru'
   - '.ad-clicks.com'
   - '.ad-cloud.jp'
@@ -18027,6 +18030,7 @@ payload:
   - '.ad-creatives-public.commondatastorage.googleapis.com'
   - '.ad-cupid.com'
   - '.ad-delivery.net'
+  - '.ad-display.wikawika.xyz'
   - '.ad-ettoday.cdn.hinet.net'
   - '.ad-exchange.toast.com'
   - '.ad-fam.com'
@@ -59521,6 +59525,8 @@ payload:
   - '.pigspie.com'
   - '.pigtisetdilqsi.com'
   - '.pigtre.com'
+  - '.pigvideo.cn'
+  - '.pigvideo.com.cn'
   - '.pigwinspath.icu'
   - '.pihawv.vprmoda.com'
   - '.pijlvpsqf.com'
@@ -67064,7 +67070,6 @@ payload:
   - '.smart2.allocine.fr'
   - '.smart2cnjuh34jb.com'
   - '.smart4ads.com'
-  - '.smartad.10010.com'
   - '.smartad.ee'
   - '.smartads.mobile.yahoo.co.jp'
   - '.smartadserver.com'
@@ -80928,6 +80933,7 @@ payload:
   - '.xiaoyutiao.com'
   - '.xiaozhen.com'
   - '.xiaozhishi852.com'
+  - '.xiaozhuvideo.cn'
   - '.xiarikui08.com'
   - '.xiaxuanfu.com'
   - '.xiazai.cdren.com'

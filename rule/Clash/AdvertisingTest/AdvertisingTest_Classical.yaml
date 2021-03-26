@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.768175
+# UPDATED: 2021-03-27 03:10:24.333419
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 69367
-# DOMAIN: 14391
+# DOMAIN-SUFFIX: 69371
+# DOMAIN: 14393
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 84063
+# TOTAL: 84069
 payload:
   - DOMAIN,0.up.qingdaonews.com
   - DOMAIN,0001.2waky.com
@@ -524,7 +524,6 @@ payload:
   - DOMAIN,acurelief.com
   - DOMAIN,acwyoynw.com
   - DOMAIN,ad-a.juicyad.com
-  - DOMAIN,ad-display.wikawika.xyz
   - DOMAIN,ad.21cn.com
   - DOMAIN,ad.9tv.co.il
   - DOMAIN,ad.about.com
@@ -1458,6 +1457,7 @@ payload:
   - DOMAIN,anx.mywebsearch.com
   - DOMAIN,anx.tb.ask.com
   - DOMAIN,anycracks.com
+  - DOMAIN,anyhacks.com
   - DOMAIN,anyporn.com
   - DOMAIN,anzanish.tripod.com
   - DOMAIN,aod-image-material.bj.bcebos.com
@@ -5380,6 +5380,7 @@ payload:
   - DOMAIN,freeonescams.com
   - DOMAIN,freepaidsoftware.com
   - DOMAIN,freeplaycard.com
+  - DOMAIN,freeplaygiftcard.com
   - DOMAIN,freeplaygiftcards.com
   - DOMAIN,freepmoney.com
   - DOMAIN,freepremiumstuff.com
@@ -8203,6 +8204,7 @@ payload:
   - DOMAIN,markkavanagh.com
   - DOMAIN,markupbd.com
   - DOMAIN,marlinaquarindo.com
+  - DOMAIN,marocuisine.net
   - DOMAIN,maroonspider.com
   - DOMAIN,marryinamansion.com
   - DOMAIN,marsflag.com
@@ -18018,6 +18020,7 @@ payload:
   - DOMAIN-SUFFIX,ad-cache.dopool.com
   - DOMAIN-SUFFIX,ad-cdn.qingting.fm
   - DOMAIN-SUFFIX,ad-center.com
+  - DOMAIN-SUFFIX,ad-channel.wikawika.xyz
   - DOMAIN-SUFFIX,ad-ck.ru
   - DOMAIN-SUFFIX,ad-clicks.com
   - DOMAIN-SUFFIX,ad-cloud.jp
@@ -18027,6 +18030,7 @@ payload:
   - DOMAIN-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com
   - DOMAIN-SUFFIX,ad-cupid.com
   - DOMAIN-SUFFIX,ad-delivery.net
+  - DOMAIN-SUFFIX,ad-display.wikawika.xyz
   - DOMAIN-SUFFIX,ad-ettoday.cdn.hinet.net
   - DOMAIN-SUFFIX,ad-exchange.toast.com
   - DOMAIN-SUFFIX,ad-fam.com
@@ -59521,6 +59525,8 @@ payload:
   - DOMAIN-SUFFIX,pigspie.com
   - DOMAIN-SUFFIX,pigtisetdilqsi.com
   - DOMAIN-SUFFIX,pigtre.com
+  - DOMAIN-SUFFIX,pigvideo.cn
+  - DOMAIN-SUFFIX,pigvideo.com.cn
   - DOMAIN-SUFFIX,pigwinspath.icu
   - DOMAIN-SUFFIX,pihawv.vprmoda.com
   - DOMAIN-SUFFIX,pijlvpsqf.com
@@ -67064,7 +67070,6 @@ payload:
   - DOMAIN-SUFFIX,smart2.allocine.fr
   - DOMAIN-SUFFIX,smart2cnjuh34jb.com
   - DOMAIN-SUFFIX,smart4ads.com
-  - DOMAIN-SUFFIX,smartad.10010.com
   - DOMAIN-SUFFIX,smartad.ee
   - DOMAIN-SUFFIX,smartads.mobile.yahoo.co.jp
   - DOMAIN-SUFFIX,smartadserver.com
@@ -80928,6 +80933,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoyutiao.com
   - DOMAIN-SUFFIX,xiaozhen.com
   - DOMAIN-SUFFIX,xiaozhishi852.com
+  - DOMAIN-SUFFIX,xiaozhuvideo.cn
   - DOMAIN-SUFFIX,xiarikui08.com
   - DOMAIN-SUFFIX,xiaxuanfu.com
   - DOMAIN-SUFFIX,xiazai.cdren.com

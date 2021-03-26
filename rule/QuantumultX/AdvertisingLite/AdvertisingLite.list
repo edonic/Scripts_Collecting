@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.016021
+# UPDATED: 2021-03-27 03:10:19.389086
 # HOST-KEYWORD: 29
 # HOST-SUFFIX: 15327
-# HOST: 15152
+# HOST: 15160
 # IP-CIDR: 192
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 30702
+# TOTAL: 30710
 HOST,0.up.qingdaonews.com,AdvertisingLite
 HOST,00-gov.cn,AdvertisingLite
 HOST,006a039c957c142bb.com,AdvertisingLite
@@ -2938,6 +2938,7 @@ HOST,bpplltxabaayhm.com,AdvertisingLite
 HOST,bpsxhmtotf.com,AdvertisingLite
 HOST,bptracking.com,AdvertisingLite
 HOST,bqiovml.com,AdvertisingLite
+HOST,bqqnngtpc.com,AdvertisingLite
 HOST,br.rk.com,AdvertisingLite
 HOST,bracewellfamily.com,AdvertisingLite
 HOST,brainient.com,AdvertisingLite
@@ -4358,6 +4359,7 @@ HOST,d869381a42af33b.com,AdvertisingLite
 HOST,d8rk54i4mohrb.cloudfront.net,AdvertisingLite
 HOST,d9ad.com,AdvertisingLite
 HOST,d9etzk30b05yg.cloudfront.net,AdvertisingLite
+HOST,d9w.fl1c.com,AdvertisingLite
 HOST,da-ads.com,AdvertisingLite
 HOST,da303.com,AdvertisingLite
 HOST,da3uf5ucdz00u.cloudfront.net,AdvertisingLite
@@ -4982,6 +4984,7 @@ HOST,e8934fbbed0495.com,AdvertisingLite
 HOST,e8dcdcd1ddcb352b.com,AdvertisingLite
 HOST,e9976b21f1b2775b.com,AdvertisingLite
 HOST,e9mlrvy1.com,AdvertisingLite
+HOST,eabyvnmt.com,AdvertisingLite
 HOST,eac0823ca94e3c07.com,AdvertisingLite
 HOST,eacla.com,AdvertisingLite
 HOST,eads.to,AdvertisingLite
@@ -5527,6 +5530,7 @@ HOST,feelophe.net,AdvertisingLite
 HOST,feewoajy.net,AdvertisingLite
 HOST,fehsnwiem.com,AdvertisingLite
 HOST,feidhartaime.pro,AdvertisingLite
+HOST,fejwbcvvzclz.com,AdvertisingLite
 HOST,felixflow.com,AdvertisingLite
 HOST,feljack.com,AdvertisingLite
 HOST,fem-inc.com,AdvertisingLite
@@ -6111,6 +6115,7 @@ HOST,gmads.net,AdvertisingLite
 HOST,gmodmp.jp,AdvertisingLite
 HOST,gmyze.com,AdvertisingLite
 HOST,gmzdaily.com,AdvertisingLite
+HOST,gnamwmixa.com,AdvertisingLite
 HOST,gnezdo.ru,AdvertisingLite
 HOST,gng5.cn,AdvertisingLite
 HOST,gnpge.com,AdvertisingLite
@@ -6165,6 +6170,7 @@ HOST,googleme.eu,AdvertisingLite
 HOST,googleplus.party,AdvertisingLite
 HOST,googlerank.info,AdvertisingLite
 HOST,gooo.al,AdvertisingLite
+HOST,gopfltvoiflf.com,AdvertisingLite
 HOST,gopjn.com,AdvertisingLite
 HOST,goprediction.com,AdvertisingLite
 HOST,goraps.com,AdvertisingLite
@@ -7617,6 +7623,7 @@ HOST,kouraija.net,AdvertisingLite
 HOST,kouwheey.net,AdvertisingLite
 HOST,kovla.com,AdvertisingLite
 HOST,kpstaticbj.wx.ckjr001.com,AdvertisingLite
+HOST,kpxbctywsa.com,AdvertisingLite
 HOST,kqzyfj.com,AdvertisingLite
 HOST,krb.devphp.org.ua,AdvertisingLite
 HOST,krison.xyz,AdvertisingLite
@@ -10029,6 +10036,7 @@ HOST,pjcn.org,AdvertisingLite
 HOST,pjnjskdvmbnup.com,AdvertisingLite
 HOST,pjtra.com,AdvertisingLite
 HOST,pkeeper3.ru,AdvertisingLite
+HOST,pkytbidauolavq.com,AdvertisingLite
 HOST,pl.cp12.wasu.tv,AdvertisingLite
 HOST,pl.cp31.ott.cibntv.net,AdvertisingLite
 HOST,placeiq.com,AdvertisingLite
@@ -10104,6 +10112,7 @@ HOST,pmsrvr.com,AdvertisingLite
 HOST,pmzer.com,AdvertisingLite
 HOST,pnads.com,AdvertisingLite
 HOST,pnd.gs,AdvertisingLite
+HOST,pnhnzihmrjybgt.com,AdvertisingLite
 HOST,pnperf.com,AdvertisingLite
 HOST,pnrt-stsdk.vivo.com.cn,AdvertisingLite
 HOST,pnstat.com,AdvertisingLite
@@ -12012,7 +12021,6 @@ HOST,smart-traffik.com,AdvertisingLite
 HOST,smart-way2.com.cn,AdvertisingLite
 HOST,smart.allocine.fr,AdvertisingLite
 HOST,smart2.allocine.fr,AdvertisingLite
-HOST,smartad.10010.com,AdvertisingLite
 HOST,smartad.ee,AdvertisingLite
 HOST,smartadserver.mgr.consensu.org,AdvertisingLite
 HOST,smartadtags.com,AdvertisingLite

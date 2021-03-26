@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.164582
+# UPDATED: 2021-03-27 03:10:19.546884
 # HOST-KEYWORD: 59
-# HOST-SUFFIX: 69367
-# HOST: 14391
+# HOST-SUFFIX: 69371
+# HOST: 14393
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 84064
+# TOTAL: 84070
 HOST,0.up.qingdaonews.com,AdvertisingTest
 HOST,0001.2waky.com,AdvertisingTest
 HOST,000lk3v.wcomhost.com,AdvertisingTest
@@ -524,7 +524,6 @@ HOST,acunetix-referrer.com,AdvertisingTest
 HOST,acurelief.com,AdvertisingTest
 HOST,acwyoynw.com,AdvertisingTest
 HOST,ad-a.juicyad.com,AdvertisingTest
-HOST,ad-display.wikawika.xyz,AdvertisingTest
 HOST,ad.21cn.com,AdvertisingTest
 HOST,ad.9tv.co.il,AdvertisingTest
 HOST,ad.about.com,AdvertisingTest
@@ -1458,6 +1457,7 @@ HOST,anvikbiotech.com,AdvertisingTest
 HOST,anx.mywebsearch.com,AdvertisingTest
 HOST,anx.tb.ask.com,AdvertisingTest
 HOST,anycracks.com,AdvertisingTest
+HOST,anyhacks.com,AdvertisingTest
 HOST,anyporn.com,AdvertisingTest
 HOST,anzanish.tripod.com,AdvertisingTest
 HOST,aod-image-material.bj.bcebos.com,AdvertisingTest
@@ -5380,6 +5380,7 @@ HOST,freenfaccount.com,AdvertisingTest
 HOST,freeonescams.com,AdvertisingTest
 HOST,freepaidsoftware.com,AdvertisingTest
 HOST,freeplaycard.com,AdvertisingTest
+HOST,freeplaygiftcard.com,AdvertisingTest
 HOST,freeplaygiftcards.com,AdvertisingTest
 HOST,freepmoney.com,AdvertisingTest
 HOST,freepremiumstuff.com,AdvertisingTest
@@ -8203,6 +8204,7 @@ HOST,marketron.com,AdvertisingTest
 HOST,markkavanagh.com,AdvertisingTest
 HOST,markupbd.com,AdvertisingTest
 HOST,marlinaquarindo.com,AdvertisingTest
+HOST,marocuisine.net,AdvertisingTest
 HOST,maroonspider.com,AdvertisingTest
 HOST,marryinamansion.com,AdvertisingTest
 HOST,marsflag.com,AdvertisingTest
@@ -18018,6 +18020,7 @@ HOST-SUFFIX,ad-brix.com,AdvertisingTest
 HOST-SUFFIX,ad-cache.dopool.com,AdvertisingTest
 HOST-SUFFIX,ad-cdn.qingting.fm,AdvertisingTest
 HOST-SUFFIX,ad-center.com,AdvertisingTest
+HOST-SUFFIX,ad-channel.wikawika.xyz,AdvertisingTest
 HOST-SUFFIX,ad-ck.ru,AdvertisingTest
 HOST-SUFFIX,ad-clicks.com,AdvertisingTest
 HOST-SUFFIX,ad-cloud.jp,AdvertisingTest
@@ -18027,6 +18030,7 @@ HOST-SUFFIX,ad-creative.projectcarmen.com,AdvertisingTest
 HOST-SUFFIX,ad-creatives-public.commondatastorage.googleapis.com,AdvertisingTest
 HOST-SUFFIX,ad-cupid.com,AdvertisingTest
 HOST-SUFFIX,ad-delivery.net,AdvertisingTest
+HOST-SUFFIX,ad-display.wikawika.xyz,AdvertisingTest
 HOST-SUFFIX,ad-ettoday.cdn.hinet.net,AdvertisingTest
 HOST-SUFFIX,ad-exchange.toast.com,AdvertisingTest
 HOST-SUFFIX,ad-fam.com,AdvertisingTest
@@ -59521,6 +59525,8 @@ HOST-SUFFIX,pigredoben12.sytes.net,AdvertisingTest
 HOST-SUFFIX,pigspie.com,AdvertisingTest
 HOST-SUFFIX,pigtisetdilqsi.com,AdvertisingTest
 HOST-SUFFIX,pigtre.com,AdvertisingTest
+HOST-SUFFIX,pigvideo.cn,AdvertisingTest
+HOST-SUFFIX,pigvideo.com.cn,AdvertisingTest
 HOST-SUFFIX,pigwinspath.icu,AdvertisingTest
 HOST-SUFFIX,pihawv.vprmoda.com,AdvertisingTest
 HOST-SUFFIX,pijlvpsqf.com,AdvertisingTest
@@ -67064,7 +67070,6 @@ HOST-SUFFIX,smart.styria-digital.com,AdvertisingTest
 HOST-SUFFIX,smart2.allocine.fr,AdvertisingTest
 HOST-SUFFIX,smart2cnjuh34jb.com,AdvertisingTest
 HOST-SUFFIX,smart4ads.com,AdvertisingTest
-HOST-SUFFIX,smartad.10010.com,AdvertisingTest
 HOST-SUFFIX,smartad.ee,AdvertisingTest
 HOST-SUFFIX,smartads.mobile.yahoo.co.jp,AdvertisingTest
 HOST-SUFFIX,smartadserver.com,AdvertisingTest
@@ -80928,6 +80933,7 @@ HOST-SUFFIX,xiaoyuanzuqiu.cn,AdvertisingTest
 HOST-SUFFIX,xiaoyutiao.com,AdvertisingTest
 HOST-SUFFIX,xiaozhen.com,AdvertisingTest
 HOST-SUFFIX,xiaozhishi852.com,AdvertisingTest
+HOST-SUFFIX,xiaozhuvideo.cn,AdvertisingTest
 HOST-SUFFIX,xiarikui08.com,AdvertisingTest
 HOST-SUFFIX,xiaxuanfu.com,AdvertisingTest
 HOST-SUFFIX,xiazai.cdren.com,AdvertisingTest

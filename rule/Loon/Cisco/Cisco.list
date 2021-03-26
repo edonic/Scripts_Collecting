@@ -1,7 +1,7 @@
 # NAME: Cisco
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 14:54:27.555450
+# UPDATED: 2021-03-27 03:10:22.146412
 # DOMAIN-SUFFIX: 118
 # TOTAL: 118
 DOMAIN-SUFFIX,.cisco

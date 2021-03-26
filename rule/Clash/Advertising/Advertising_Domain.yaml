@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.499877
+# UPDATED: 2021-03-27 03:10:24.071634
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 45671
-# DOMAIN: 20745
+# DOMAIN-SUFFIX: 45675
+# DOMAIN: 20748
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 66721
+# TOTAL: 66728
 payload:
   - '0.nextyourcontent.com'
   - '0.up.qingdaonews.com'
@@ -945,7 +945,6 @@ payload:
   - 'acwyoynw.com'
   - 'ad-a.juicyad.com'
   - 'ad-arata.s3.amazonaws.com'
-  - 'ad-display.wikawika.xyz'
   - 'ad-ettoday.cdn.hinet.net'
   - 'ad-feeds.com'
   - 'ad-mediation.tuanguwen.com'
@@ -2925,6 +2924,7 @@ payload:
   - 'anx.mywebsearch.com'
   - 'anx.tb.ask.com'
   - 'anycracks.com'
+  - 'anyhacks.com'
   - 'anyporn.com'
   - 'anzanish.tripod.com'
   - 'ao3648.actonsoftware.com'
@@ -6310,6 +6310,7 @@ payload:
   - 'd9lq0o81skkdj.cloudfront.net'
   - 'd9rj2sdxjer5v.cloudfront.net'
   - 'd9tnvwv7i2n85.cloudfront.net'
+  - 'd9w.fl1c.com'
   - 'da.2000888.com'
   - 'da2.manifest.auditude.com'
   - 'da5w2k479hyx2.cloudfront.net'
@@ -8376,6 +8377,7 @@ payload:
   - 'freeonescams.com'
   - 'freepaidsoftware.com'
   - 'freeplaycard.com'
+  - 'freeplaygiftcard.com'
   - 'freeplaygiftcards.com'
   - 'freepmoney.com'
   - 'freepremiumstuff.com'
@@ -12031,6 +12033,7 @@ payload:
   - 'markkavanagh.com'
   - 'markupbd.com'
   - 'marlinaquarindo.com'
+  - 'marocuisine.net'
   - 'maroonspider.com'
   - 'marryinamansion.com'
   - 'marsflag.com'
@@ -23755,10 +23758,12 @@ payload:
   - '.ad-cache.dopool.com'
   - '.ad-cdn.qingting.fm'
   - '.ad-center.com'
+  - '.ad-channel.wikawika.xyz'
   - '.ad-clicks.com'
   - '.ad-cloud.jp'
   - '.ad-cn.jovcloud.com'
   - '.ad-delivery.net'
+  - '.ad-display.wikawika.xyz'
   - '.ad-flow.com'
   - '.ad-gbn.com'
   - '.ad-goi.com'
@@ -50278,6 +50283,8 @@ payload:
   - '.pignuwoa.com'
   - '.pigtisetdilqsi.com'
   - '.pigtre.com'
+  - '.pigvideo.cn'
+  - '.pigvideo.com.cn'
   - '.pigwinspath.icu'
   - '.pihawv.vprmoda.com'
   - '.pikacn.com'
@@ -55243,7 +55250,6 @@ payload:
   - '.smart.styria-digital.com'
   - '.smart2.allocine.fr'
   - '.smart2cnjuh34jb.com'
-  - '.smartad.10010.com'
   - '.smartad.ee'
   - '.smartadserver.com'
   - '.smartadtags.com'
@@ -64068,6 +64074,7 @@ payload:
   - '.xiaoyutiao.com'
   - '.xiaozhen.com'
   - '.xiaozhishi852.com'
+  - '.xiaozhuvideo.cn'
   - '.xiarikui08.com'
   - '.xiaxuanfu.com'
   - '.xiazai.cdren.com'

@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.075840
+# UPDATED: 2021-03-27 03:10:19.458791
 # HOST-KEYWORD: 59
-# HOST-SUFFIX: 45671
-# HOST: 20745
+# HOST-SUFFIX: 45675
+# HOST: 20748
 # IP-CIDR: 245
 # USER-AGENT: 1
 # IP6-CIDR: 1
-# TOTAL: 66722
+# TOTAL: 66729
 HOST,0.nextyourcontent.com,Advertising
 HOST,0.up.qingdaonews.com,Advertising
 HOST,0001.2waky.com,Advertising
@@ -945,7 +945,6 @@ HOST,acurelief.com,Advertising
 HOST,acwyoynw.com,Advertising
 HOST,ad-a.juicyad.com,Advertising
 HOST,ad-arata.s3.amazonaws.com,Advertising
-HOST,ad-display.wikawika.xyz,Advertising
 HOST,ad-ettoday.cdn.hinet.net,Advertising
 HOST,ad-feeds.com,Advertising
 HOST,ad-mediation.tuanguwen.com,Advertising
@@ -2925,6 +2924,7 @@ HOST,anvikbiotech.com,Advertising
 HOST,anx.mywebsearch.com,Advertising
 HOST,anx.tb.ask.com,Advertising
 HOST,anycracks.com,Advertising
+HOST,anyhacks.com,Advertising
 HOST,anyporn.com,Advertising
 HOST,anzanish.tripod.com,Advertising
 HOST,ao3648.actonsoftware.com,Advertising
@@ -6310,6 +6310,7 @@ HOST,d9hhrg4mnvzow.cloudfront.net,Advertising
 HOST,d9lq0o81skkdj.cloudfront.net,Advertising
 HOST,d9rj2sdxjer5v.cloudfront.net,Advertising
 HOST,d9tnvwv7i2n85.cloudfront.net,Advertising
+HOST,d9w.fl1c.com,Advertising
 HOST,da.2000888.com,Advertising
 HOST,da2.manifest.auditude.com,Advertising
 HOST,da5w2k479hyx2.cloudfront.net,Advertising
@@ -8376,6 +8377,7 @@ HOST,freenfaccount.com,Advertising
 HOST,freeonescams.com,Advertising
 HOST,freepaidsoftware.com,Advertising
 HOST,freeplaycard.com,Advertising
+HOST,freeplaygiftcard.com,Advertising
 HOST,freeplaygiftcards.com,Advertising
 HOST,freepmoney.com,Advertising
 HOST,freepremiumstuff.com,Advertising
@@ -12031,6 +12033,7 @@ HOST,marketron.com,Advertising
 HOST,markkavanagh.com,Advertising
 HOST,markupbd.com,Advertising
 HOST,marlinaquarindo.com,Advertising
+HOST,marocuisine.net,Advertising
 HOST,maroonspider.com,Advertising
 HOST,marryinamansion.com,Advertising
 HOST,marsflag.com,Advertising
@@ -23755,10 +23758,12 @@ HOST-SUFFIX,ad-brix.com,Advertising
 HOST-SUFFIX,ad-cache.dopool.com,Advertising
 HOST-SUFFIX,ad-cdn.qingting.fm,Advertising
 HOST-SUFFIX,ad-center.com,Advertising
+HOST-SUFFIX,ad-channel.wikawika.xyz,Advertising
 HOST-SUFFIX,ad-clicks.com,Advertising
 HOST-SUFFIX,ad-cloud.jp,Advertising
 HOST-SUFFIX,ad-cn.jovcloud.com,Advertising
 HOST-SUFFIX,ad-delivery.net,Advertising
+HOST-SUFFIX,ad-display.wikawika.xyz,Advertising
 HOST-SUFFIX,ad-flow.com,Advertising
 HOST-SUFFIX,ad-gbn.com,Advertising
 HOST-SUFFIX,ad-goi.com,Advertising
@@ -50278,6 +50283,8 @@ HOST-SUFFIX,piginkdos.com,Advertising
 HOST-SUFFIX,pignuwoa.com,Advertising
 HOST-SUFFIX,pigtisetdilqsi.com,Advertising
 HOST-SUFFIX,pigtre.com,Advertising
+HOST-SUFFIX,pigvideo.cn,Advertising
+HOST-SUFFIX,pigvideo.com.cn,Advertising
 HOST-SUFFIX,pigwinspath.icu,Advertising
 HOST-SUFFIX,pihawv.vprmoda.com,Advertising
 HOST-SUFFIX,pikacn.com,Advertising
@@ -55243,7 +55250,6 @@ HOST-SUFFIX,smart.allocine.fr,Advertising
 HOST-SUFFIX,smart.styria-digital.com,Advertising
 HOST-SUFFIX,smart2.allocine.fr,Advertising
 HOST-SUFFIX,smart2cnjuh34jb.com,Advertising
-HOST-SUFFIX,smartad.10010.com,Advertising
 HOST-SUFFIX,smartad.ee,Advertising
 HOST-SUFFIX,smartadserver.com,Advertising
 HOST-SUFFIX,smartadtags.com,Advertising
@@ -64068,6 +64074,7 @@ HOST-SUFFIX,xiaoyuanzuqiu.cn,Advertising
 HOST-SUFFIX,xiaoyutiao.com,Advertising
 HOST-SUFFIX,xiaozhen.com,Advertising
 HOST-SUFFIX,xiaozhishi852.com,Advertising
+HOST-SUFFIX,xiaozhuvideo.cn,Advertising
 HOST-SUFFIX,xiarikui08.com,Advertising
 HOST-SUFFIX,xiaxuanfu.com,Advertising
 HOST-SUFFIX,xiazai.cdren.com,Advertising

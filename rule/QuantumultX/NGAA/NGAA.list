@@ -1,7 +1,7 @@
 # NAME: NGAA
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 14:54:26.223573
+# UPDATED: 2021-03-27 03:10:20.692596
 # HOST-SUFFIX: 29
 # TOTAL: 29
 HOST-SUFFIX,chinagslb.cn,NGAA

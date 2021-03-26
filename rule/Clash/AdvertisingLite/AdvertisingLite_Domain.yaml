@@ -1,13 +1,13 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.409175
+# UPDATED: 2021-03-27 03:10:23.962338
 # DOMAIN-KEYWORD: 29
 # DOMAIN-SUFFIX: 15327
-# DOMAIN: 15152
+# DOMAIN: 15160
 # IP-CIDR: 192
 # IP-CIDR6: 1
-# TOTAL: 30701
+# TOTAL: 30709
 payload:
   - '0.up.qingdaonews.com'
   - '00-gov.cn'
@@ -2938,6 +2938,7 @@ payload:
   - 'bpsxhmtotf.com'
   - 'bptracking.com'
   - 'bqiovml.com'
+  - 'bqqnngtpc.com'
   - 'br.rk.com'
   - 'bracewellfamily.com'
   - 'brainient.com'
@@ -4358,6 +4359,7 @@ payload:
   - 'd8rk54i4mohrb.cloudfront.net'
   - 'd9ad.com'
   - 'd9etzk30b05yg.cloudfront.net'
+  - 'd9w.fl1c.com'
   - 'da-ads.com'
   - 'da303.com'
   - 'da3uf5ucdz00u.cloudfront.net'
@@ -4982,6 +4984,7 @@ payload:
   - 'e8dcdcd1ddcb352b.com'
   - 'e9976b21f1b2775b.com'
   - 'e9mlrvy1.com'
+  - 'eabyvnmt.com'
   - 'eac0823ca94e3c07.com'
   - 'eacla.com'
   - 'eads.to'
@@ -5527,6 +5530,7 @@ payload:
   - 'feewoajy.net'
   - 'fehsnwiem.com'
   - 'feidhartaime.pro'
+  - 'fejwbcvvzclz.com'
   - 'felixflow.com'
   - 'feljack.com'
   - 'fem-inc.com'
@@ -6111,6 +6115,7 @@ payload:
   - 'gmodmp.jp'
   - 'gmyze.com'
   - 'gmzdaily.com'
+  - 'gnamwmixa.com'
   - 'gnezdo.ru'
   - 'gng5.cn'
   - 'gnpge.com'
@@ -6165,6 +6170,7 @@ payload:
   - 'googleplus.party'
   - 'googlerank.info'
   - 'gooo.al'
+  - 'gopfltvoiflf.com'
   - 'gopjn.com'
   - 'goprediction.com'
   - 'goraps.com'
@@ -7617,6 +7623,7 @@ payload:
   - 'kouwheey.net'
   - 'kovla.com'
   - 'kpstaticbj.wx.ckjr001.com'
+  - 'kpxbctywsa.com'
   - 'kqzyfj.com'
   - 'krb.devphp.org.ua'
   - 'krison.xyz'
@@ -10029,6 +10036,7 @@ payload:
   - 'pjnjskdvmbnup.com'
   - 'pjtra.com'
   - 'pkeeper3.ru'
+  - 'pkytbidauolavq.com'
   - 'pl.cp12.wasu.tv'
   - 'pl.cp31.ott.cibntv.net'
   - 'placeiq.com'
@@ -10104,6 +10112,7 @@ payload:
   - 'pmzer.com'
   - 'pnads.com'
   - 'pnd.gs'
+  - 'pnhnzihmrjybgt.com'
   - 'pnperf.com'
   - 'pnrt-stsdk.vivo.com.cn'
   - 'pnstat.com'
@@ -12012,7 +12021,6 @@ payload:
   - 'smart-way2.com.cn'
   - 'smart.allocine.fr'
   - 'smart2.allocine.fr'
-  - 'smartad.10010.com'
   - 'smartad.ee'
   - 'smartadserver.mgr.consensu.org'
   - 'smartadtags.com'

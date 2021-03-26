@@ -1,13 +1,13 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-26 16:54:38.585255
+# UPDATED: 2021-03-27 03:10:24.146174
 # DOMAIN-KEYWORD: 59
-# DOMAIN-SUFFIX: 45671
-# DOMAIN: 20745
+# DOMAIN-SUFFIX: 45675
+# DOMAIN: 20748
 # IP-CIDR: 245
 # IP-CIDR6: 1
-# TOTAL: 66721
+# TOTAL: 66728
 payload:
   - DOMAIN,0.nextyourcontent.com
   - DOMAIN,0.up.qingdaonews.com
@@ -945,7 +945,6 @@ payload:
   - DOMAIN,acwyoynw.com
   - DOMAIN,ad-a.juicyad.com
   - DOMAIN,ad-arata.s3.amazonaws.com
-  - DOMAIN,ad-display.wikawika.xyz
   - DOMAIN,ad-ettoday.cdn.hinet.net
   - DOMAIN,ad-feeds.com
   - DOMAIN,ad-mediation.tuanguwen.com
@@ -2925,6 +2924,7 @@ payload:
   - DOMAIN,anx.mywebsearch.com
   - DOMAIN,anx.tb.ask.com
   - DOMAIN,anycracks.com
+  - DOMAIN,anyhacks.com
   - DOMAIN,anyporn.com
   - DOMAIN,anzanish.tripod.com
   - DOMAIN,ao3648.actonsoftware.com
@@ -6310,6 +6310,7 @@ payload:
   - DOMAIN,d9lq0o81skkdj.cloudfront.net
   - DOMAIN,d9rj2sdxjer5v.cloudfront.net
   - DOMAIN,d9tnvwv7i2n85.cloudfront.net
+  - DOMAIN,d9w.fl1c.com
   - DOMAIN,da.2000888.com
   - DOMAIN,da2.manifest.auditude.com
   - DOMAIN,da5w2k479hyx2.cloudfront.net
@@ -8376,6 +8377,7 @@ payload:
   - DOMAIN,freeonescams.com
   - DOMAIN,freepaidsoftware.com
   - DOMAIN,freeplaycard.com
+  - DOMAIN,freeplaygiftcard.com
   - DOMAIN,freeplaygiftcards.com
   - DOMAIN,freepmoney.com
   - DOMAIN,freepremiumstuff.com
@@ -12031,6 +12033,7 @@ payload:
   - DOMAIN,markkavanagh.com
   - DOMAIN,markupbd.com
   - DOMAIN,marlinaquarindo.com
+  - DOMAIN,marocuisine.net
   - DOMAIN,maroonspider.com
   - DOMAIN,marryinamansion.com
   - DOMAIN,marsflag.com
@@ -23755,10 +23758,12 @@ payload:
   - DOMAIN-SUFFIX,ad-cache.dopool.com
   - DOMAIN-SUFFIX,ad-cdn.qingting.fm
   - DOMAIN-SUFFIX,ad-center.com
+  - DOMAIN-SUFFIX,ad-channel.wikawika.xyz
   - DOMAIN-SUFFIX,ad-clicks.com
   - DOMAIN-SUFFIX,ad-cloud.jp
   - DOMAIN-SUFFIX,ad-cn.jovcloud.com
   - DOMAIN-SUFFIX,ad-delivery.net
+  - DOMAIN-SUFFIX,ad-display.wikawika.xyz
   - DOMAIN-SUFFIX,ad-flow.com
   - DOMAIN-SUFFIX,ad-gbn.com
   - DOMAIN-SUFFIX,ad-goi.com
@@ -50278,6 +50283,8 @@ payload:
   - DOMAIN-SUFFIX,pignuwoa.com
   - DOMAIN-SUFFIX,pigtisetdilqsi.com
   - DOMAIN-SUFFIX,pigtre.com
+  - DOMAIN-SUFFIX,pigvideo.cn
+  - DOMAIN-SUFFIX,pigvideo.com.cn
   - DOMAIN-SUFFIX,pigwinspath.icu
   - DOMAIN-SUFFIX,pihawv.vprmoda.com
   - DOMAIN-SUFFIX,pikacn.com
@@ -55243,7 +55250,6 @@ payload:
   - DOMAIN-SUFFIX,smart.styria-digital.com
   - DOMAIN-SUFFIX,smart2.allocine.fr
   - DOMAIN-SUFFIX,smart2cnjuh34jb.com
-  - DOMAIN-SUFFIX,smartad.10010.com
   - DOMAIN-SUFFIX,smartad.ee
   - DOMAIN-SUFFIX,smartadserver.com
   - DOMAIN-SUFFIX,smartadtags.com
@@ -64068,6 +64074,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoyutiao.com
   - DOMAIN-SUFFIX,xiaozhen.com
   - DOMAIN-SUFFIX,xiaozhishi852.com
+  - DOMAIN-SUFFIX,xiaozhuvideo.cn
   - DOMAIN-SUFFIX,xiarikui08.com
   - DOMAIN-SUFFIX,xiaxuanfu.com
   - DOMAIN-SUFFIX,xiazai.cdren.com
