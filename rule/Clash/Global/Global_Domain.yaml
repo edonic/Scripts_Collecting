@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-27 03:10:25.222736
-# DOMAIN-SUFFIX: 28918
+# UPDATED: 2021-03-28 02:27:44.359703
+# DOMAIN-SUFFIX: 28920
 # DOMAIN: 43
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 127
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
-# TOTAL: 29134
+# TOTAL: 29136
 payload:
   - 'amp.akamaized.net'
   - 'apple.com.akadns.net'
@@ -17578,6 +17578,8 @@ payload:
   - '.pao77.com'
   - '.paofu.cloud'
   - '.paofuyun.me'
+  - '.paoluz.com'
+  - '.paoluz.link'
   - '.paowang.net'
   - '.papakev.de'
   - '.papalah.com'

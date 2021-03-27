@@ -1,7 +1,7 @@
 # NAME: Sohu
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-27 03:10:20.924512
+# UPDATED: 2021-03-28 02:27:40.841822
 # HOST-SUFFIX: 53
 # TOTAL: 53
 HOST-SUFFIX,acoloo.com,Sohu

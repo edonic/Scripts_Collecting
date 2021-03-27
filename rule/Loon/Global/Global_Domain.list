@@ -1,16 +1,16 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-27 03:10:22.532571
+# UPDATED: 2021-03-28 02:27:42.171106
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 28918
+# DOMAIN-SUFFIX: 28920
 # USER-AGENT: 49
 # DOMAIN: 43
 # DOMAIN-KEYWORD: 42
 # IP-CIDR: 127
 # IP-CIDR6: 3
 # URL-REGEX: 1
-# TOTAL: 29183
+# TOTAL: 29185
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -17579,6 +17579,8 @@ www-cdn.icloud.com.akadns.net
 .pao77.com
 .paofu.cloud
 .paofuyun.me
+.paoluz.com
+.paoluz.link
 .paowang.net
 .papakev.de
 .papalah.com

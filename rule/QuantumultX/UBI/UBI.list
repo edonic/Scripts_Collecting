@@ -1,7 +1,7 @@
 # NAME: UBI
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-27 03:10:20.225348
+# UPDATED: 2021-03-28 02:27:40.263354
 # HOST-SUFFIX: 5
 # TOTAL: 5
 HOST-SUFFIX,ubi.com,UBI

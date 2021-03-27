@@ -1,9 +1,9 @@
 # NAME: Global
 # AUTHOR: 
 # REPO: 
-# UPDATED: 2021-03-27 03:10:27.501972
+# UPDATED: 2021-03-28 02:27:46.238163
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN-SUFFIX: 28918
+# DOMAIN-SUFFIX: 28920
 # USER-AGENT: 49
 # DOMAIN: 43
 # DOMAIN-KEYWORD: 42
@@ -11,7 +11,7 @@
 # IP-CIDR6: 3
 # PROCESS-NAME: 1
 # URL-REGEX: 1
-# TOTAL: 29184
+# TOTAL: 29186
 amp.akamaized.net
 apple.com.akadns.net
 assets-priconne-redive-us.akamaized.net
@@ -17580,6 +17580,8 @@ www-cdn.icloud.com.akadns.net
 .pao77.com
 .paofu.cloud
 .paofuyun.me
+.paoluz.com
+.paoluz.link
 .paowang.net
 .papakev.de
 .papalah.com

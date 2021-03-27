@@ -1,7 +1,7 @@
 # NAME: CSDN
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-03-27 03:10:19.850967
+# UPDATED: 2021-03-28 02:27:39.953567
 # HOST-SUFFIX: 15
 # TOTAL: 15
 HOST-SUFFIX,csdn.com,CSDN
